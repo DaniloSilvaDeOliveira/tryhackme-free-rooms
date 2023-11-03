@@ -10,41 +10,41 @@ All the rooms herein, are absolute free. ATTACK!!
 > ***This repository is maintained by [ winterrdog ](https://github.com/winterrdog/). For any suggestion feel free to reach out to [me.](https://t.me/winterrdog)*** 
 
 #
-## Table of Contents
+## Tabela de Conteudos
 
 </aside>
 
-| Name of Topic                                     | Number of Rooms | Numero de Salas Completadas|Topicos Finalizados|
-| ------------------------------------------------- |:---------------:|:--------------------------:|:-----------------:|
-| **[Introductory Rooms](#intro-rooms)**            | **10**          |                            |                   |
-| **[Linux Fundamentals](#linux-fundamentals)**     | **5**           | **5**                      |                   |
-| **[Windows Fundamentals](#windows-fundamentals)** | **3**           |                            |                   |
-| **[Basic Rooms](#basics-rooms)**                   | **10**         |                            |                   |
-| **[Reconnaissance](#recon)**                      | **10**          |                            |                   |
-| **[Scripting](#scripting)**                       | **8**           |                            |                   |
-| **[Networking](#networking)**                     | **7**           |                            |                   |
-| **[Tooling](#tooling)**                           | **17**          |                            |                   |
-| **[Crypto & Hashes](#crypto--hashes)**            | **5**           |                            |                   |
-| **[Steganography](#steganography)**               | **6**           |                            |                   |
-| **[Web](#web)**                                   | **27**          |                            |                   |
-| **[Android](#android)**                           | **1**           |                            |                   |
-| **[Forensics](#forensics)**                       | **6**           |                            |                   |
-| **[Wifi Hacking](#wi-fi-hacking)**                | **1**           |                            |                   |
-| **[Reverse Engineering](#reverse-engineering)**   | **11**          |                            |                   |
-| **[Malware Analysis](#malware-analysis)**         | **7**           |                            |                   |
-| **[Privilege Escalation](#privesc)**              | **13**          |                            |                   |
-| **[Windows](#windows)**                           | **7**           |                            |                   |
-| **[Active Directory](#active-directory)**         | **5**           |                            |                   |
-| **[PCAP Analysis](#pcap-analysis)**               | **4**           |                            |                   |
-| **[Buffer Overflow](#bufferoverflow)**            | **4**           |                            |                   |
-| **[Easy CTF](#easy-ctf)**                         | **58**          |                            |                   |
-| **[Medium CTF](#medium-ctf)**                     | **73**          |                            |                   |
-| **[Hard CTF](#hard-ctf)**                         | **38**          |                            |                   |
-| **[Misc](#misc)**                                 | **35**          |                            |                   |
-| **[Special Events](#special-events)**             | **9**           |                            |                   |
-| **Total Rooms:**                                  | **= 378**       |                            |                   |
-
-## Intro Rooms
+| Nome dos Tópicos                                  | Número de Salas | Numero de Salas Completadas |Topicos Finalizados|
+| ------------------------------------------------- |:---------------:|:---------------------------:|:-----------------:|
+| **Salas Introdutorias**                           | **10**          |                             |                   |
+| **Linux Fundamentals**                            | **5**           | **5**                       |                   |
+| **Windows Fundamentals**                          | **3**           |                             |                   |
+| **Basic Rooms**                                   | **10**          |                             |                   |
+| **Reconnaissance**                                | **10**          |                             |                   |
+| **Scripting**                                     | **8**           |                             |                   |
+| **Networking**                                    | **7**           |                             |                   |
+| **Tooling**                                       | **17**          |                             |                   |
+| **Crypto & Hashes**                               | **5**           |                             |                   |
+| **Steganography**                                 | **6**           |                             |                   |
+| **Web**                                           | **27**          |                             |                   |
+| **Android**                                       | **1**           |                             |                   |
+| **Forensics**                                     | **6**           |                             |                   |
+| **Wifi Hacking**                                  | **1**           |                             |                   |
+| **Reverse Engineering**                           | **11**          |                             |                   |
+| **Malware Analysis**                              | **7**           |                             |                   |
+| **Privilege Escalation**                          | **13**          |                             |                   |
+| **Windows**                                       | **7**           |                             |                   |
+| **Active Directory**                              | **5**           |                             |                   |
+| **PCAP Analysis**                                 | **4**           |                             |                   |
+| **[Buffer Overflow**                              | **4**           |                             |                   |
+| **Easy CTF**                                      | **58**          |                             |                   |
+| **Medium CTF**                                    | **73**          |                             |                   |
+| **Hard CTF**                                      | **38**          |                             |                   |
+| **Misc**                                          | **35**          |                             |                   |
+| **Special Events**                                | **9**           |                             |                   |
+| **Total Rooms:**                                  | **= 378**       |                             |                   |
+ 
+# Salas Introdutorias
 * [TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
 * [TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
 * [TryHackMe | Preparation](https://tryhackme.com/room/preparation)
