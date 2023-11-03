@@ -1,15 +1,6 @@
-# TryHackMe Free Rooms( _they cost $0.00000_ )
+# TryHackMe Free Rooms
 
-<br/>
 
-Hey people, here's a list of **350+ Free TryHackMe rooms** to start learning hacking. I have arranged & compiled them according to different topics so that you can start hacking right now and also!
-
-All the rooms herein, are absolute free. ATTACK!!
-
-## Maintainer
-> ***This repository is maintained by [ winterrdog ](https://github.com/winterrdog/). For any suggestion feel free to reach out to [me.](https://t.me/winterrdog)*** 
-
-#
 ## Tabela de Conteudos
 
 </aside>
@@ -951,3 +942,8 @@ All the rooms herein, are absolute free. ATTACK!!
 - [TryHackMe | Learn and win prizes](https://tryhackme.com/room/tickets1)
 
 - [TryHackMe | Learn and win prizes #2](https://tryhackme.com/room/tickets2)
+
+## Links Uteis:
+* <a href="https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954b8d">Medium | Freem Rooms TryHackMe<a/>
+
+
