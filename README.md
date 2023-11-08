@@ -392,7 +392,7 @@
 
 * [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 
-* [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
+✅ [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 
 ## Windows
 
