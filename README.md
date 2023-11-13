@@ -48,7 +48,7 @@
   
 * [TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 
-* [TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
+✅ [TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
 
 * [TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
@@ -69,18 +69,18 @@
 ## Linux Fundamentals
 
 
-* [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
+✅ [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
-* [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+✅ [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
-* [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
+✅ [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
 
-* [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+✅ [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 
 ## Windows Fundamentals
 
 
-* [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+✅ [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
 
 * [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
 
@@ -150,7 +150,7 @@
 
 * [TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
 
-* [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
+✅ [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
 
 * [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
 
