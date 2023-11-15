@@ -491,7 +491,7 @@
 
 * [TryHackMe | Fowsniff CTF](https://tryhackme.com/room/ctf)
 
-* [TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
+✅ [TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
 
 * [TryHackMe | AttackerKB](https://tryhackme.com/room/attackerkb)
 
