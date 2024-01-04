@@ -37,34 +37,34 @@
  
 # Salas Introdutorias
 * [TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
-* [TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
-* [TryHackMe | Preparation](https://tryhackme.com/room/preparation)
+✅ [TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
+✅ [TryHackMe | Preparation](https://tryhackme.com/room/preparation)
 
 * [TryHackMe | Intro to Logs](https://tryhackme.com/room/introtologs)
 
 * [TryHackMe | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
 
-* [TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
+✅ [TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
   
-* [TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
+✅ [TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 
 ✅ [TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
 
-* [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+✅ [TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
-* [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+✅ [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
-* [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+✅ [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
-* [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+✅ [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
-* [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+✅ [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 
-* [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+✅ [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
-* [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch) 
+✅ [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch) 
 
-* [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+✅ [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
 ## Linux Fundamentals
 
@@ -82,9 +82,9 @@
 
 ✅ [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
 
-* [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+✅ [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
 
-* [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+✅ [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
 ## Basics Rooms
 
